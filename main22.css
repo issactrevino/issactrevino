@@ -1,0 +1,83 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+	font-size: 72px;
+	font-family: Calibri;
+}
+
+.try {
+	color: blue;
+	text-align: center;
+	font-family: Calibri;
+	padding-top: 3%;
+}
+
+.whole {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+h3 {
+	display: inline;
+	padding-left: 45px;
+	padding-right: 45px;
+	font-size: 30px;
+}
+
+h2 {
+	color: maroon;
+	font-size: 35px;
+	font-family: Calibri;
+	text-align: left;
+}
+
+p {
+	font-size: 17px;
+	font-family: Calibri;
+	color: black;
+	text-align: justified;
+}
+
+.set1{
+	margin-top: 2%;
+	padding-left: 10px;
+}
+.set2{
+	margin-top:2%;
+	padding-left: 10px;
+}
+.set3{
+	margin-top: 2%;
+	padding-left: 10px;
+}
+.set4{
+	margin-top: 2%;
+	padding-left: 10px;
+}
+.partial {
+	margin-top: 3%;
+	border: 5px solid maroon;
+	border-radius: 25px;
+	background-color: silver;
+}
+.combine {
+	display: inline;
+}
+a:link {
+ text-decoration: none;
+ color: white;
+}
+a:hover {
+  color: purple;
+  background-color: gray;
+} 
+a:visited {
+ color: green;
+}
+
